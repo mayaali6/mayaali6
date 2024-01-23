@@ -1,4 +1,4 @@
-# Hi I'm a 2nd yr student at NEU studying Biochemistry #
+# Hi I'm Maya, a 2nd yr student at NEU studying Biochemistry! #
 
 - 🔭 I’m currently working on basic genome analysis
 - 🌱 I’m currently learning how to use Git as a resource for my future genome sequencing and analysis projects 
