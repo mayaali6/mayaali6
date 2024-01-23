@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**mayaali6/mayaali6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I am a 2nd year Biochemistry student at Northeastern University 
+# Hi I'm a 2nd yr student at NEU studying Biochemistry #
 
 - 🔭 I’m currently working on basic genome analysis
 - 🌱 I’m currently learning how to use Git as a resource for my future genome sequencing and analysis projects 
